@@ -1,8 +1,10 @@
 {
   "name": "inject-template-cli",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "The 'cli' for inject-template",
-  "bin": "bin/index.js",
+  "bin": {
+    "inject": "bin/index.js"
+  },
   "scripts": {
     "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
