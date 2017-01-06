@@ -1,0 +1,3 @@
+<template>
+  Some content
+</template>
